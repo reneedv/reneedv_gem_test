@@ -1,6 +1,6 @@
 = reneedv_gem_test
 
-Description goes here.
+Playing with Jeweler.
 
 == Contributing to reneedv_gem_test
  

@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "reneedv_gem_test"
   gem.homepage = "http://github.com/reneedv/reneedv_gem_test"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "playing with Jeweler"
+  gem.description = "still playing with Jeweler"
   gem.email = "renee.devoursney@gmail.com"
   gem.authors = ["Renée De Voursney"]
   # dependencies defined in Gemfile
